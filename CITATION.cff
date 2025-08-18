@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sánchez-Loor"
+  given-names: "Iván"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  affiliation: "Universidad Indoamérica, SISAu Research Group"
+- family-names: "Ayala-Chauvin"
+  given-names: "Manuel"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  affiliation: "Universidad Indoamérica, SISAu Research Group"
+title: "EV Demand Modeling Framework: Agent-Based Simulation with TimescaleDB"
+version: 1.0.0
+doi: 10.xxxx/xxxxxxx
+date-released: 2025-01-XX
+url: "https://github.com/username/ev-demand-modeling-abm-timescaledb"
+repository-code: "https://github.com/username/ev-demand-modeling-abm-timescaledb"
+abstract: >-
+  A comprehensive framework for modeling electric vehicle charging demand using
+  Agent-Based Modeling (ABM) combined with Monte Carlo simulation and TimescaleDB
+  architecture. The framework provides quarter-hourly EV charging demand projections
+  with GPU acceleration and parallel processing capabilities.
+keywords:
+  - "electric vehicles"
+  - "agent-based modeling"
+  - "TimescaleDB"
+  - "big data"
+  - "energy planning"
+  - "monte carlo simulation"
+  - "GPU computing"
+  - "demand forecasting"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Sánchez-Loor"
+    given-names: "Iván"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Ayala-Chauvin"
+    given-names: "Manuel"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.xxxx/enxxxxxxx"
+  journal: "Energies"
+  title: "Modelado de la demanda de energía de vehículos eléctricos: Un enfoque Big Data para la planificación energética"
+  volume: XX
+  issue: XX
+  year: 2025
+  start: 1
+  end: 25
