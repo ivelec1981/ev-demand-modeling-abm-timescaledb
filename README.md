@@ -5,7 +5,7 @@
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-2.8+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
-[![DOI](https://img.shields.io/badge/DOI-Pending-lightgrey.svg)](https://github.com/your-username/ev-demand-modeling-abm-timescaledb)
+[![DOI](https://img.shields.io/badge/DOI-Pending-lightgrey.svg)](https://github.com/ivelec1981/ev-demand-modeling-abm-timescaledb)
 
 > **🚗⚡ Advanced Agent-Based Modeling framework for Electric Vehicle charging demand prediction using TimescaleDB and Big Data analytics.**
 
@@ -18,7 +18,7 @@ If you use this code in your research, please cite:
   author={Sánchez-Loor, Iván and Ayala-Chauvin, Manuel},
   journal={Energies},
   year={2025},
-  note={GitHub: https://github.com/your-username/ev-demand-modeling-abm-timescaledb}
+  note={GitHub: https://github.com/ivelec1981/ev-demand-modeling-abm-timescaledb}
 }
 ```
 
@@ -99,7 +99,7 @@ ev-demand-modeling-abm-timescaledb/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/ev-demand-modeling-abm-timescaledb
+git clone https://github.com/ivelec1981/ev-demand-modeling-abm-timescaledb
 cd ev-demand-modeling-abm-timescaledb
 ```
 
