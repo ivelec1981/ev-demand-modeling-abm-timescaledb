@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This research was conducted as part of the SISAu Research Group at Universidad Indoamérica, Quito, Ecuador.
 
 ## Contact
-- Email: ivan.sanchez@uti.edu.ec
+- Email: ivelec@hotmail.com
 - Research Group: SISAu - Universidad Indoamérica
 - Location: Quito, Ecuador
 
